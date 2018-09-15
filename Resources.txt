@@ -1,0 +1,40 @@
+This is going to be a list of websites and resource pages where you can find a lot of the resources for programming.
+Some of them are a littel outdated, but contain very relevant infromation.
+
+The FTC Programming Resources page:
+URL: https://www.firstinspires.org/resource-library/ftc/technology-information-and-resources
+
+Description:
+This page contains many tutorials on the basic setup and programming of many of the systems
+that FTC uses to program, including: Android Studio, onBot Java, and Blocks
+
+The Android Studio FTC App Master examples page
+Found under FtcRobotController/src/main/java/org.firstinspires.ftc.robotcontroller
+
+Description:
+These are various examples of tele-ops, autonomous's, sensor examples, servo and motor examples,
+and vision system examples using vuforia. These can help you with almost any problem you have,
+but although these examples are here, most only show the data from the sensors and not how to use them.
+
+FTCKey.com
+URL: ftckey.com
+
+Description:
+This website also contains many programming tutorials and examples. Last updated during the
+Velocity Vortex season two years ago, it contains programming examples over various drivetrains,
+sensor data manipulation, control of motors, and examples of various autonomous programs.
+
+Youtube
+URL: youtube.com
+
+Description:
+You can learn almost anything you need to know about FTC, Android Studio, and programming in general 
+from youtube. This is because the problems that you encounter have probably happened to other teams before
+and these teams have graciously given their time to show you how to fix your problems.
+
+Some popular channels are:
+FiXIT3491
+SWERVERobotics
+FTC Team 9779 PiEaters
+JaegerRobotics
+FIRST Tech Challenge
